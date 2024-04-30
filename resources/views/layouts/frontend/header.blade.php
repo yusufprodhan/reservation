@@ -13,7 +13,7 @@
 
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
 
-    <title>Dedicated to Exceeding Expectation || PIX Clipping Ltd</title>
+    <title>Truck Reservation</title>
 
     <meta name="description" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
     <meta name="subject" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
@@ -79,7 +79,7 @@
 
             <!-- Navbar Brand-->
             <a class="navbar-brand" href="/">
-                    <img src="/assets/images/logo-light.jpeg" alt="Pix Clipping logo">
+                    <img src="/assets/images/truckIcon.png" alt="Pix Clipping logo">
             </a>
 
             <!-- Nav holder -->
@@ -88,10 +88,6 @@
             <!-- Navbar Items -->
             <ul class="navbar-nav items">
                 <li class="nav-item"><a href="{{route('index')}}" class="nav-link {{\Illuminate\Support\Facades\Route::current()->getName() === 'index' ? 'active': ''}}" href="{{route('about-us')}}">Home</a></li>
-                <li class="nav-item"><a class="nav-link {{\Illuminate\Support\Facades\Route::current()->getName() === 'about-us' ? 'active': ''}}" href="{{route('about-us')}}">About Us</a></li>
-                <li class="nav-item"><a href="{{route('services')}}" class="nav-link {{\Illuminate\Support\Facades\Route::current()->getName() === 'services' ? 'active': ''}}">Services</a></li>
-                <li class="nav-item"><a href="{{route('workflow')}}" class="nav-link {{\Illuminate\Support\Facades\Route::current()->getName() === 'workflow' ? 'active': ''}}">Workflow</a></li>
-                <li class="nav-item"><a href="{{route('price')}}" class="nav-link {{\Illuminate\Support\Facades\Route::current()->getName() === 'price' ? 'active': ''}}">Price</a></li>
                 <li class="nav-item"><a href="{{route('contact')}}" class="nav-link {{\Illuminate\Support\Facades\Route::current()->getName() === 'contact' ? 'active': ''}}">Contact</a></li>
             </ul>
 
@@ -122,12 +118,10 @@
             <!-- Navbar Action -->
             <ul class="navbar-nav action">
                 <li class="nav-item ml-3">
-                    <a href="{{route('login')}}" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>ORDER NOW</a>
-                    <!--
-                        Suggestion: Replace the purchase button above with a contact button.
-
-                        <a href="#contact" class="smooth-anchor btn ml-lg-auto primary-button"><i class="icon-rocket"></i>CONTACT US</a>
-                    -->
+                    <a href="{{route('login')}}" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>RESERVE NOW</a>
+                </li>
+                <li class="nav-item ml-3">
+                    <a href="{{route('login')}}" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Login</a>
                 </li>
             </ul>
         </div>
