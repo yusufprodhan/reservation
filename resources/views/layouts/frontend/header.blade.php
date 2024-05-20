@@ -79,7 +79,8 @@
 
             <!-- Navbar Brand-->
             <a class="navbar-brand" href="/">
-                    <img src="/assets/images/truckIcon.png" alt="Pix Clipping logo">
+                Let's Move
+{{--                    <img src="/assets/images/truckIcon.png" alt="logo">--}}
             </a>
 
             <!-- Nav holder -->
