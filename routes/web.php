@@ -31,6 +31,7 @@ use App\Http\Controllers\IndexController;
 
 Route::get('/', [IndexController::class,'index'])->name('index');
 Route::get('/about-us', [IndexController::class,'aboutUs'])->name('about-us');
+Route::get('/quotation', [IndexController::class,'quotation'])->name('quotation');
 Route::get('/services', [IndexController::class,'services'])->name('services');
 Route::get('/price', [IndexController::class,'price'])->name('price');
 Route::get('/workflow', [IndexController::class,'workflow'])->name('workflow');

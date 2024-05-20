@@ -4,7 +4,7 @@
         <div class="swiper-wrapper">
             <!-- Item 1 -->
             <div class="swiper-slide slide-center">
-                <img src="/front-assets/images/bg-5.jpg" class="full-image" data-mask="70">
+                <img src="/front-assets/images/contact-Hero-bg.jpg" class="full-image" data-mask="70">
                 <div class="slide-content row text-center">
                     <div class="col-12 mx-auto inner">
                         <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">{{isset($title) ? $title :'About Us'}}</h1>

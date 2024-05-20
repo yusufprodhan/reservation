@@ -79,7 +79,7 @@
 
             <!-- Navbar Brand-->
             <a class="navbar-brand" href="/">
-                    <img src="/assets/images/truckIcon.png" alt="Pix Clipping logo">
+                <img src="/assets/images/truckIcon.png" alt="logo">
             </a>
 
             <!-- Nav holder -->
@@ -118,10 +118,10 @@
             <!-- Navbar Action -->
             <ul class="navbar-nav action">
                 <li class="nav-item ml-3">
-                    <a href="{{route('login')}}" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>RESERVE NOW</a>
+                    <a href="{{route('quotation')}}" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Get Started</a>
                 </li>
                 <li class="nav-item ml-3">
-                    <a href="{{route('login')}}" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Login</a>
+                    <a href="{{route('login')}}" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Login</a>
                 </li>
             </ul>
         </div>

@@ -33,6 +33,11 @@ class IndexController extends Controller
         $title = 'About Us';
         return  view('about-us',compact('title'));
     }
+    public function quotation()
+    {
+        $title = 'Quotation';
+        return  view('quotation-form',compact('title'));
+    }
     public function price()
     {
         $title = 'Price';

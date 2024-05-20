@@ -7,10 +7,10 @@
             <div class="row items footer-widget">
                 <div class="col-12 col-lg-3 p-0">
                     <div class="row">
-                        <div class="branding col-12 p-3 text-center text-lg-left item">
+                        <div class="branding col-12 p-3 text-lg-left item">
                             <div class="brand">
                                 <a href="/" class="logo">
-                                    <img src="/assets/images/logo-light.jpeg" alt="Pix Clipping logo">
+                                    Let's Move
                                 </a>
                             </div>
                             <p>Authentic and innovative.<br>Built to the smallest detail<br>with a focus on usability<br>and performance.</p>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-12 col-lg-9 p-0">
                     <div class="row">
-                        <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
+                        <div class="col-12 col-lg-4 p-3 text-lg-left item">
                             <h4 class="title">Get in Touch</h4>
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -55,40 +55,40 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="{{route('contact')}}" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button smooth-anchor"><i class="icon-speech"></i>SEND A MESSAGE</a>
+                                    <a href="{{route('contact')}}" class="mt-4 btn ml-lg-auto primary-button"><i class="icon-rocket"></i>SEND A MESSAGE</a>
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
+                        <div class="col-12 col-lg-4 p-3 text-lg-left item">
                             <h4 class="title">Our Services</h4>
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">Website Development</a>
+                                    <a href="#" class="nav-link">Local Home moving</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">Building Applications</a>
+                                    <a href="#" class="nav-link">Business Moving</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">SEO & Digital Marketing</a>
+                                    <a href="#" class="nav-link">Packing Services</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">Branding and Identity</a>
+                                    <a href="#" class="nav-link">Moving Boxes and Supplies</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">Digital Images & Videos</a>
+                                    <a href="#" class="nav-link">Climate-Controlled Storage</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">Long Distance Moving</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
                             <h4 class="title">Popular Tags</h4>
-                            <a href="#" class="badge tag">Mobile</a>
-                            <a href="#" class="badge tag">Development</a>
-                            <a href="#" class="badge tag">Technology</a>
-                            <a href="#" class="badge tag">App</a>
-                            <a href="#" class="badge tag">Education</a>
-                            <a href="#" class="badge tag">Business</a>
-                            <a href="#" class="badge tag">Health</a>
-                            <a href="#" class="badge tag">Industry</a>
+                            <a href="#" class="badge tag">Local Home moving</a>
+                            <a href="#" class="badge tag">Business Moving</a>
+                            <a href="#" class="badge tag">Climate-Controlled Storage</a>
+                            <a href="#" class="badge tag">Long Distance Moving</a>
+                            <a href="#" class="badge tag">Packing Services</a>
                         </div>
                     </div>
                 </div>
