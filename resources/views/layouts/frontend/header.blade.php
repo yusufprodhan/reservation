@@ -79,7 +79,7 @@
 
             <!-- Navbar Brand-->
             <a class="navbar-brand" href="/">
-                <img src="/assets/images/truckIcon.png" alt="logo">
+                    <img src="/assets/images/truckIcon.png" alt="Pix Clipping logo">
             </a>
 
             <!-- Nav holder -->
