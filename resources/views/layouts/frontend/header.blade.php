@@ -37,7 +37,7 @@
     <link rel="stylesheet" href="/front-assets/css/vendor/animation.min.css">
     <link rel="stylesheet" href="/front-assets/css/vendor/gallery.min.css">
     <link rel="stylesheet" href="/front-assets/css/vendor/cookie-notice.min.css">
-
+    <link rel="stylesheet" href="/assets/libs/bootstrap-datepicker/css/bootstrap-datepicker.min.css">
     <!-- ==============================================
     Custom Stylesheet
     =============================================== -->
@@ -121,9 +121,9 @@
                 <li class="nav-item ml-3">
                     <a href="{{route('quotation')}}" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Get Started</a>
                 </li>
-                <li class="nav-item ml-3">
-                    <a href="{{route('login')}}" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Login</a>
-                </li>
+{{--                <li class="nav-item ml-3">--}}
+{{--                    <a href="{{route('login')}}" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>Login</a>--}}
+{{--                </li>--}}
             </ul>
         </div>
     </nav>

@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Login | PIX Clipping Ltd</title>
+    <title>{{Route::current()->getName()}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -31,9 +31,9 @@
                         <div class="bg-login-overlay"></div>
                         <div class="position-relative">
                             <h5 class="text-white font-size-20">Welcome Back !</h5>
-                            <p class="text-white-50 mb-0">Sign in to continue to PIX Clipping.</p>
+{{--                            <p class="text-white-50 mb-0">Sign in to continue to.</p>--}}
                             <a href="index.html" class="logo logo-admin mt-4">
-                                <img src="/assets/images/logo-light.jpeg" alt="" height="30">
+                                <img src="/assets/images/avter.png" alt="avter">
                             </a>
                         </div>
                     </div>

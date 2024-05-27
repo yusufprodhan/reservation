@@ -4,7 +4,7 @@
 <!-- ============================================================== -->
 
 @yield('title')
-@include('include.flash_message')
+{{--@include('include.flash_message')--}}
 @yield('content')
 
 <!-- end main content-->

@@ -107,7 +107,7 @@
                      -->
                 </div>
                 <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                    <p>© {{date('Y')}} Powered by <a href="#" target="_blank">PIX CLIPPING LTD</a>.</p>
+                    <p>© {{date('Y')}} Powered by <a href="#" target="_blank">let's Move</a>.</p>
                 </div>
             </div>
         </div>
@@ -278,7 +278,8 @@ Vendor Scripts
 <script src="/front-assets/js/vendor/shuffle.min.js"></script>
 <script src="/front-assets/js/vendor/cookie-notice.min.js"></script>
 <script src="/front-assets/js/vendor/particles.min.js"></script>
-<script src="/front-assets/js/main.js"></script>
+<script src="/front-assets/js/vendor/particles.min.js"></script>
+<script src="/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
 
 <!-- #endregion Global ========================= -->
 

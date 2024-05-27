@@ -1,8 +1,6 @@
 @extends('layouts.frontend.app')
 
 @section('content')
-
-
     <!-- Slider -->
     <section id="slider" class="hero p-0 odd">
         <div class="swiper-container full-slider featured animation slider-h-100">
